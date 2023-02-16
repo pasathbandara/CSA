@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CSA.iml" filepath="$PROJECT_DIR$/.idea/CSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSA_Tute_3_q4/CSA_Tute_3_q4.iml" filepath="$PROJECT_DIR$/CSA_Tute_3_q4/CSA_Tute_3_q4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSA_tute3/CSA_tute3.iml" filepath="$PROJECT_DIR$/CSA_tute3/CSA_tute3.iml" />
+    </modules>
+  </component>
+</project>
